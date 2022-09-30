@@ -1,0 +1,26 @@
+.xl,
+.lg,
+.md,
+.sm,
+.fat {
+  border-left: 4px solid purple;
+  height: 0.25rem;
+}
+.xl {
+  width: 18.75rem;
+}
+.lg {
+  width: 15.188rem;
+}
+.md {
+  width: 15.188rem;
+}
+
+.sm {
+  width: 12.25rem;
+}
+
+.fat {
+  width: 2.563rem;
+  height: 1.563rem !important;
+}
